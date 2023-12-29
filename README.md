@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.discordapp.net/attachments/952138215136055332/1157397703391719525/Frame_6.png"></p>
+<p align="center"><img width=500 src="https://github.com/hamhimdev/unzorite/blob/main/unzorite.png?raw=true"></p>
 
 ## Why?
 ZorinOS is in a nutshell, Ubuntu wrapped in their Gnome skin and some pre-installed apps.<br>
